@@ -1,0 +1,143 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+#header {
+  position: relative;
+  margin: 20px auto;
+  width: 1000px;
+  height: 120px;
+  background: #444;
+}
+
+#nav {
+  position: relative;
+  margin: auto;
+  width: 1000px;
+  height: 48px;
+  background: #aaa;
+}
+
+#top {
+  position: relative;
+  margin: 20px auto;
+  width: 1000px;
+  height: 192px;
+  background: #888;
+}
+section {
+  position: relative;
+  margin: auto;
+  width: 1000px;
+  height: 453px;
+  background: #aaa;
+}
+
+#footer {
+  position: relative;
+  margin: 20px auto;
+  width: 1000px;
+  height: 70px;
+  background: #888;
+}
+
+#logo {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 200px;
+  height: 60px;
+  background: rgb(206, 159, 29);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+.redes {
+  position: absolute;
+  right: 120px;
+  width: 42px;
+  height: 42px;
+  background: #ffffff;
+  border-radius: 100%;
+}
+
+#icono1 {
+  position: absolute;
+  top: 42px;
+  right: 120px;
+  width: 42px;
+  height: 42px;
+  background: #ffffff;
+  border-radius: 100%;
+}
+
+#icono2 {
+  position: absolute;
+  top: 42px;
+  right: 69px;
+  width: 42px;
+  height: 42px;
+  background: #ffffff;
+  border-radius: 100%;
+}
+
+#icono3 {
+  position: absolute;
+  top: 42px;
+  right: 19px;
+  width: 42px;
+  height: 42px;
+  background: #ffffff;
+  border-radius: 100%;
+}
+
+.botones {
+  float: left;
+  width: 196px;
+  height: 48px;
+  background: #333;
+  margin: 0px 2px;
+}
+
+#top ul {
+  width: 1010px;
+  height: 192px;
+  background: #888;
+}
+
+#top ul li {
+  float: left;
+  width: 326px;
+  height: 192px;
+  background: black;
+  margin-right: 10px;
+}
+
+aside#izq {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 200px;
+  height: 453px;
+  background: #333;
+}
+
+article {
+  position: absolute;
+  left: 200px;
+  top: 0;
+  width: 600px;
+  height: 453px;
+  background: #666;
+}
+
+aside#der {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 200px;
+  height: 453px;
+  background: #333;
+}
