@@ -9,6 +9,7 @@
   width: 1000px;
   height: 120px;
   background: #444;
+  text-align: center;
 }
 
 #nav {
@@ -36,7 +37,7 @@ section {
 
 #footer {
   position: relative;
-  margin: 20px auto;
+  margin: 369px auto;
   width: 1000px;
   height: 70px;
   background: #888;
@@ -66,21 +67,21 @@ section {
 #icono1 {
   position: absolute;
   top: 42px;
-  right: 120px;
+  right: 130px;
   width: 42px;
   height: 42px;
-  background: #ffffff;
-  border-radius: 100%;
+  background: #444;
+  border-radius: %;
 }
 
 #icono2 {
   position: absolute;
   top: 42px;
-  right: 69px;
+  right: 70px;
   width: 42px;
   height: 42px;
-  background: #ffffff;
-  border-radius: 100%;
+  background: #444;
+  border-radius: %;
 }
 
 #icono3 {
@@ -89,8 +90,8 @@ section {
   right: 19px;
   width: 42px;
   height: 42px;
-  background: #ffffff;
-  border-radius: 100%;
+  background: #444;
+  border-radius: %;
 }
 
 .botones {
@@ -99,6 +100,7 @@ section {
   height: 48px;
   background: #333;
   margin: 0px 2px;
+  text-align: center;
 }
 
 #top ul {
@@ -120,7 +122,7 @@ aside#izq {
   left: 0;
   top: 0;
   width: 200px;
-  height: 453px;
+  height: 800px;
   background: #333;
 }
 
@@ -129,7 +131,7 @@ article {
   left: 200px;
   top: 0;
   width: 600px;
-  height: 453px;
+  height: 800px;
   background: #666;
 }
 
@@ -138,6 +140,10 @@ aside#der {
   right: 0;
   top: 0;
   width: 200px;
-  height: 453px;
+  height: 800px;
   background: #333;
+}
+
+.color {
+  color: darkgoldenrod;
 }
