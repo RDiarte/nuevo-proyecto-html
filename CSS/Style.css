@@ -120,7 +120,9 @@ aside#izq {
   top: 0;
   width: 200px;
   height: 800px;
-  background: #333;
+  background-image: url(https://cdn.britannica.com/49/127649-050-31417AF3/Heath-Ledger-Joker-Christian-Bale-The-Dark-Knight-2008.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 article {
@@ -138,7 +140,9 @@ aside#der {
   top: 0;
   width: 200px;
   height: 800px;
-  background: #333;
+  background-image: url(https://bandai.com.mx/blog/wp-content/uploads/2019/09/Historia-de-Batman-el-superhe%CC%81roe-ma%CC%81s-popular-en-la-era-digital-copia-1.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .color {
